@@ -1,2 +1,4 @@
 Fichero de log:
 +Añadimos nuevos ficheros
+
+"Añadiendo linea"
